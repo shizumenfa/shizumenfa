@@ -235,3 +235,11 @@ var arr = [3, 2, 1, 5, 5, 4];
 console.log(arr.indexOf(5));
 // 从后向前查找
 console.log(arr.lastIndexOf(5));
+
+
+//  获取数组元素索引
+var arr = [3, 2, 1, 5, 5, 4];
+// 从前向后查找
+console.log(arr.indexOf(5));
+// 从后向前查找
+console.log(arr.lastIndexOf(5));
